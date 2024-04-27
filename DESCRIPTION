@@ -1,9 +1,9 @@
 Package: rmyfuncs
 Type: Package
-Title: My useful R functions
+Title: My R functions
 Version: 0.1.0
 Author: Shota HOMMA
-Maintainer: Shota HOMMA
+Maintainer: Shota HOMMA <homma.046@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: MIT + file LICENSE
