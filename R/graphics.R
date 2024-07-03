@@ -35,6 +35,6 @@ show_pch <- function() {
   plot(rep(1,26), rev(0:25), pch = 0:25, col = "black", bg = "red",
        xlab = "", ylab = "", xlim = c(0, 5), axes=FALSE)
   text(rep(1,25), rev(0:25), name, pos = 4)
-  text(rep(1,25), rev(0:25), pos = 2)
+  text(rep(1,25), rev(0:25), 0:25, pos = 2)
 }
 
